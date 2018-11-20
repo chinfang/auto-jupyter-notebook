@@ -1,6 +1,6 @@
 # Automatic Jupyter Notebook
 
-This is a project about automatic generating Jupyter Notebook for OpenML dataset.
+The goal of this project is to automatically generate Jupyter Notebook for each OpenML dataset with corresponding information: the most important features, the machine learning model performance and dataset similarity with other 300 OpenML datasets. The dataset similarity can help user to discover other datasets with similar performance on machine learning algorithms.
 
 ## Generating Jupyter notebook
 The Jupyter Notebook can be automatic generated and runned by the following command:
